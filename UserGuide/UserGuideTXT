@@ -1,0 +1,16 @@
+Log In:
+It will prompt you for a username, enter it.
+It will prompt you for a password, enter it.
+If these credentials exist in the systemUsers file, the main function will load depending if you are a standard or admin user.
+
+Standard User:
+1. View Properties - Prints a list of properties in the propertyList file.
+2. Logout - Logs the user out of the system.
+
+Admin User:
+1. View Properties - Prints a list of properties in the propertyList file.
+2. Add Properties - Prompts you for inputs for the property, which it will compile and add to the propertyList file.
+3. Edit Properties - Prompts you to select a property then for a new value for each value, then update the propertyList file.
+4. Delete Properties - Prompts you to select a property then removes the selected property from the propertyList file.
+5. Search Properties - Prompts you for a specific value to search for, then will print any and all relevant property listings in the propertyList file.
+6. Logout - Will save any and all changes made to the propertyList file, then log the user out.
