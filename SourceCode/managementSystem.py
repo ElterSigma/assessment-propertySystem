@@ -3,6 +3,9 @@ import systemUsers
 from propertyList import propertyList
 import maskpass
 
+# For maskpass to work in VSCode: Create and access a virtual environment, THEN import maskpass. 
+# If you import maskpass outside of the virtual environment, it will not work (as far as I am aware(
+
 #If user is valid, will run the main function
 validUser = True
 
