@@ -1,3 +1,6 @@
+DISCLAIMER:
+This program requires MaskPass in order to function. If you do not have MaskPass or are unsure, follow the instructions listed at https://pypi.org/project/maskpass/.
+
 Log In:
 It will prompt you for a username, enter it.
 It will prompt you for a password, enter it.
